@@ -13,3 +13,5 @@ An Android App that displays the current weather conditions and three-day foreca
 * Weather API
 
 ## Screenshot
+
+<img src="./demo/weather_app_screenshot.png" width="250" />
